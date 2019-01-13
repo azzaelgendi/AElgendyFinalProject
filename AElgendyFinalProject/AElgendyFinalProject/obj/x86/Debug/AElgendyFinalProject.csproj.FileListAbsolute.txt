@@ -1,0 +1,520 @@
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\AElgendyFinalProject.exe
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\AElgendyFinalProject.pdb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csprojAssemblyReference.cache
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csproj.CopyComplete
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.exe
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.pdb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\bat-th.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\bat.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\blueBird.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\castle.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\city2.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\cloud.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Cloud1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\cloudSnow.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\explosion.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\ghost.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Grave.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Halloween.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\help.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\lampFence.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\perte.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\skyline.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\zombie.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit1.wma
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\scary.wma
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\scary.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\hilight.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\regular.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\birds.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\player.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Coin.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\coinSprite.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Coin_sprites.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\backMusic.wma
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\backMusic.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit.wma
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\wallpaper1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\about.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\gameOver.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\witch1.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\bat.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\castle.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\city2.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\cloud.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Cloud1.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\cloudSnow.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Coin.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\coinSprite.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\explosion.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\ghost.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Grave.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Halloween.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\lampFence.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\perte.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\skyline.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\zombie.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\hilight.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\regular.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\backMusic.wma
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\backMusic.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit.wma
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit1.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit1.wma
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit1.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\scary.wma
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\scary.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\about.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\bat-th.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\birds.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\blueBird.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Coin_sprites.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\gameOver.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Help.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\player.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\wallpaper1.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\witch1.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\AElgendyFinalProject.exe
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\AElgendyFinalProject.pdb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csprojAssemblyReference.cache
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csproj.CopyComplete
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.exe
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.pdb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\bat.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\castle.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\city2.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\cloud.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Cloud1.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\cloudSnow.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Coin.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\coinSprite.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\explosion.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\ghost.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Grave.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Halloween.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\lampFence.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\perte.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\skyline.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\zombie.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\backMusic.wma
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\backMusic.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit.wma
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit1.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit1.wma
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit1.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\hilight.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\regular.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\about.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\bat-th.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\birds.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\blueBird.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Coin_sprites.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\gameOver.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Help.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\player.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\wallpaper1.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\AElgendyFinalProject.exe
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\AElgendyFinalProject.pdb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csprojAssemblyReference.cache
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csproj.CopyComplete
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.exe
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.pdb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\rectangle.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\white.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\witch1.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 - Copy\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\large.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csprojAssemblyReference.cache
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.exe
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.pdb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\bat.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\castle.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\city2.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\cloud.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Cloud1.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\cloudSnow.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Coin.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\coinSprite.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\explosion.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\ghost.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Grave.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Halloween.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\lampFence.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\perte.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\player.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\skyline.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\zombie.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\hilight.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\large.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\regular.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\white.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\about.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\bat-th.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\birds.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\blueBird.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Coin_sprites.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\gameOver.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Help.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\rectangle.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\wallpaper1.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\witch1.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\backMusic.wma
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\backMusic.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit.wma
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit1.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit1.wma
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit1.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\AElgendyFinalProject.exe
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\AElgendyFinalProject.pdb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csproj.CopyComplete
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\LevelTwo.xnb
+C:\Users\AZZA ELGENDY\Dropbox\conestoga\GameProg\FinalProject\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\pumpkin-icon.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\bat.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\castle.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\city2.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\cloud.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Cloud1.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\cloudSnow.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Coin.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\coinSprite.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\explosion.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\ghost.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Grave.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Halloween.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\lampFence.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\perte.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\player.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\skyline.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\zombie.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\hilight.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\large.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\regular.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\white.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\about.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\bat-th.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\birds.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\blueBird.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Coin_sprites.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\gameOver.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Help.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\LevelTwo.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\pumpkin-icon.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\rectangle.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\wallpaper1.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\witch1.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\backMusic.wma
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\backMusic.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit.wma
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit1.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit1.wma
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit1.xnb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\AElgendyFinalProject.exe
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\AElgendyFinalProject.pdb
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csprojAssemblyReference.cache
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csproj.CoreCompileInputs.cache
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csproj.CopyComplete
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.exe
+D:\backup4 -Level2\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.pdb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\bat.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\castle.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\city2.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\cloud.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Cloud1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\cloudSnow.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Coin.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\coinSprite.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\explosion.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\ghost.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Grave.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Halloween.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\lampFence.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\perte.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\player.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\skyline.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\zombie.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\backMusic.wma
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\backMusic.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit.wma
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit1.wma
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\about.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\bat-th.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\birds.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\blueBird.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Coin_sprites.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\gameOver.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Help.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\LevelTwo.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\pumpkin-icon.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\rectangle.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\wallpaper1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\witch1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\hilight.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\large.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\regular.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\white.xnb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\AElgendyFinalProject.exe
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\AElgendyFinalProject.pdb
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csprojAssemblyReference.cache
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csproj.CopyComplete
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.exe
+C:\Users\AZZA ELGENDY\Desktop\AEFinal\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.pdb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\castle.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\city2.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\cloud.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Cloud1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\cloudSnow.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Coin.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\coinSprite.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\explosion.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\ghost.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Grave.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Halloween.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\lampFence.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\perte.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\player.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\skyline.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\zombie.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\backMusic.wma
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\backMusic.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit.wma
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit1.wma
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\about.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\bat-th.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\bat.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\birds.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\blueBird.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Coin_sprites.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\gameOver.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Help.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\LevelTwo.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\pumpkin-icon.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\rectangle.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\wallpaper1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\witch1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\hilight.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\large.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\regular.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\white.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\AElgendyFinalProject.exe
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\AElgendyFinalProject.pdb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csprojAssemblyReference.cache
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csproj.CopyComplete
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.exe
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.pdb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\castle.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\city2.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\cloud.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Cloud1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\cloudSnow.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Coin.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\coinSprite.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\explosion.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\ghost.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Grave.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Halloween.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\lampFence.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\perte.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\player.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\skyline.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\zombie.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\hilight.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\large.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\regular.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\myFonts\white.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\backMusic.wma
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\backMusic.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit.wma
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\coinHit1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit1.wma
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\Music\hit1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\about.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\bat-th.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\bat.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\birds.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\blueBird.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Coin_sprites.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\gameOver.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\Help.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\LevelTwo.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\pumpkin-icon.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\rectangle.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\wallpaper1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\Content\images\witch1.xnb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\AElgendyFinalProject.exe
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\AElgendyFinalProject.pdb
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csprojAssemblyReference.cache
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.csproj.CopyComplete
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.exe
+C:\Users\AZZA ELGENDY\Desktop\AElgendyFinalProjectFolder1\AElgendyFinalProject\AElgendyFinalProject\obj\x86\Debug\AElgendyFinalProject.pdb

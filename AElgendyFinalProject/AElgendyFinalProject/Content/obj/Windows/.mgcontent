@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/images/bat-th.png</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/images/blueBird.png</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/Music/hit.wav</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/Music/hit1.mp3</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/myFonts/regular.spritefont</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/myFonts/hilight.spritefont</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/images/birds.png</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/images/Coin_sprites.png</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/Music/backMusic.mp3</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/Music/coinHit.mp3</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/Music/coinHit1.wav</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/images/wallpaper1.png</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/images/about.png</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/images/gameOver.png</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/images/Help.png</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/images/rectangle.png</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/myFonts/white.spritefont</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/images/witch1.png</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/myFonts/large.spritefont</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/images/pumpkin-icon.png</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/images/levelTwo.png</File>
+    <File>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/images/bat.ico</File>
+  </SourceFiles>
+</SourceFileCollection>

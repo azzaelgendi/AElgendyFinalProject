@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/Music/coinHit1.wav</SourceFile>
+  <SourceTime>2018-11-19T17:38:36-05:00</SourceTime>
+  <DestFile>C:/Users/AZZA ELGENDY/Desktop/AElgendyFinalProjectFolder1/AElgendyFinalProject/AElgendyFinalProject/Content/bin/Windows/Music/coinHit1.xnb</DestFile>
+  <DestTime>2018-12-06T18:22:59.5728701-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
